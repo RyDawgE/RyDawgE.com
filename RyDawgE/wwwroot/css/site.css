@@ -9,20 +9,14 @@ html {
 }
 
 @font-face {
-    font-family: 'Perfect-DOS-VGA-437';
-    src: url('PerfectDOSVGA437.eot');
-    src: url('PerfectDOSVGA437.eot?#iefix') format('embedded-opentype'), url('PerfectDOSVGA437.woff2') format('woff2'), url('PerfectDOSVGA437.woff') format('woff'), url('PerfectDOSVGA437.ttf') format('truetype'), url('PerfectDOSVGA437.svg#PerfectDOSVGA437') format('svg');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+    font-family: 'PerfectDOSVGA437';
+    src: url('..//fonts/PerfectDOSVGA/PerfectDOSVGA437.ttf');
+    
 }
 
 @font-face {
-    font-family: 'Vermin-Vibes-1989';
-    src: url('Vermin-Vibes-1989.woff') format('woff'), url('Vermin-Vibes-1989.woff2') format('woff2'), url('Vermin-Vibes-1989.svg#Vermin-Vibes-1989') format('svg'), url('Vermin-Vibes-1989.eot'), url('Vermin-Vibes-1989.eot?#iefix') format('embedded-opentype'), url('Vermin-Vibes-1989.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+    font-family: 'VerminVibes1989';
+    src: url('..//fonts/VerminVibes/VerminVibes1989.ttf');
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
