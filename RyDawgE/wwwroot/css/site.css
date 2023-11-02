@@ -1,0 +1,39 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@font-face {
+    font-family: 'Perfect-DOS-VGA-437';
+    src: url('PerfectDOSVGA437.eot');
+    src: url('PerfectDOSVGA437.eot?#iefix') format('embedded-opentype'), url('PerfectDOSVGA437.woff2') format('woff2'), url('PerfectDOSVGA437.woff') format('woff'), url('PerfectDOSVGA437.ttf') format('truetype'), url('PerfectDOSVGA437.svg#PerfectDOSVGA437') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vermin-Vibes-1989';
+    src: url('Vermin-Vibes-1989.woff') format('woff'), url('Vermin-Vibes-1989.woff2') format('woff2'), url('Vermin-Vibes-1989.svg#Vermin-Vibes-1989') format('svg'), url('Vermin-Vibes-1989.eot'), url('Vermin-Vibes-1989.eot?#iefix') format('embedded-opentype'), url('Vermin-Vibes-1989.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
