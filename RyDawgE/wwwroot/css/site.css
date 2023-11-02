@@ -10,13 +10,12 @@ html {
 
 @font-face {
     font-family: 'PerfectDOSVGA437';
-    src: url('..//fonts/PerfectDOSVGA/PerfectDOSVGA437.ttf');
-    
+    src: url('..//fonts//PerfectDOSVGA//PerfectDOSVGA437.ttf');
 }
 
 @font-face {
     font-family: 'VerminVibes1989';
-    src: url('..//fonts/VerminVibes/VerminVibes1989.ttf');
+    src: url('..//fonts//VerminVibes//VerminVibes.otf');
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {

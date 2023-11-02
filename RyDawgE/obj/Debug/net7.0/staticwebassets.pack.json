@@ -21,76 +21,12 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\PerfectDOSVGA\\PerfectDOSVGA437.eot",
-      "PackagePath": "staticwebassets\\fonts\\PerfectDOSVGA\\PerfectDOSVGA437.eot"
-    },
-    {
-      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\PerfectDOSVGA\\PerfectDOSVGA437.svg",
-      "PackagePath": "staticwebassets\\fonts\\PerfectDOSVGA\\PerfectDOSVGA437.svg"
-    },
-    {
       "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\PerfectDOSVGA\\PerfectDOSVGA437.ttf",
       "PackagePath": "staticwebassets\\fonts\\PerfectDOSVGA\\PerfectDOSVGA437.ttf"
     },
     {
-      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\PerfectDOSVGA\\PerfectDOSVGA437.woff",
-      "PackagePath": "staticwebassets\\fonts\\PerfectDOSVGA\\PerfectDOSVGA437.woff"
-    },
-    {
-      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\PerfectDOSVGA\\PerfectDOSVGA437.woff2",
-      "PackagePath": "staticwebassets\\fonts\\PerfectDOSVGA\\PerfectDOSVGA437.woff2"
-    },
-    {
-      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\PerfectDOSVGA\\demo.html",
-      "PackagePath": "staticwebassets\\fonts\\PerfectDOSVGA\\demo.html"
-    },
-    {
-      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\PerfectDOSVGA\\stylesheet.css",
-      "PackagePath": "staticwebassets\\fonts\\PerfectDOSVGA\\stylesheet.css"
-    },
-    {
-      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\VerminVibes\\Vermin-Vibes-1989.eot",
-      "PackagePath": "staticwebassets\\fonts\\VerminVibes\\Vermin-Vibes-1989.eot"
-    },
-    {
-      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\VerminVibes\\Vermin-Vibes-1989.svg",
-      "PackagePath": "staticwebassets\\fonts\\VerminVibes\\Vermin-Vibes-1989.svg"
-    },
-    {
-      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\VerminVibes\\Vermin-Vibes-1989.ttf",
-      "PackagePath": "staticwebassets\\fonts\\VerminVibes\\Vermin-Vibes-1989.ttf"
-    },
-    {
-      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\VerminVibes\\Vermin-Vibes-1989.woff",
-      "PackagePath": "staticwebassets\\fonts\\VerminVibes\\Vermin-Vibes-1989.woff"
-    },
-    {
-      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\VerminVibes\\Vermin-Vibes-1989.woff2",
-      "PackagePath": "staticwebassets\\fonts\\VerminVibes\\Vermin-Vibes-1989.woff2"
-    },
-    {
-      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\VerminVibes\\css\\logo-what-font-is.svg",
-      "PackagePath": "staticwebassets\\fonts\\VerminVibes\\css\\logo-what-font-is.svg"
-    },
-    {
-      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\VerminVibes\\css\\style.css",
-      "PackagePath": "staticwebassets\\fonts\\VerminVibes\\css\\style.css"
-    },
-    {
-      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\VerminVibes\\example.html",
-      "PackagePath": "staticwebassets\\fonts\\VerminVibes\\example.html"
-    },
-    {
-      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\VerminVibes\\install-a-webfont.txt",
-      "PackagePath": "staticwebassets\\fonts\\VerminVibes\\install-a-webfont.txt"
-    },
-    {
-      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\VerminVibes\\whatfontis.com.htm",
-      "PackagePath": "staticwebassets\\fonts\\VerminVibes\\whatfontis.com.htm"
-    },
-    {
-      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\VerminVibes\\whatfontis.com.txt",
-      "PackagePath": "staticwebassets\\fonts\\VerminVibes\\whatfontis.com.txt"
+      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\VerminVibes\\VerminVibes1989.ttf",
+      "PackagePath": "staticwebassets\\fonts\\VerminVibes\\VerminVibes1989.ttf"
     },
     {
       "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\js\\site.js",
