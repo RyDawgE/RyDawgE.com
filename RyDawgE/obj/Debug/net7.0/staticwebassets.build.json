@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uviHP8GVWJQPSRikTf11/T34amyphJy+1S0ePNIMMKI=",
+  "Hash": "oe7zgpELOgH9BAvw1usY+dXuoFTUoYMgOH/CDrXt3og=",
   "Source": "RyDawgE",
   "BasePath": "_content/RyDawgE",
   "Mode": "Default",
@@ -136,12 +136,12 @@
       "OriginalItemSpec": "wwwroot\\fonts\\PerfectDOSVGA\\PerfectDOSVGA437.ttf"
     },
     {
-      "Identity": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\VerminVibes\\VerminVibes1989.ttf",
+      "Identity": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\VerminVibes\\VerminVibes.otf",
       "SourceId": "RyDawgE",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\",
       "BasePath": "_content/RyDawgE",
-      "RelativePath": "fonts/VerminVibes/VerminVibes1989.ttf",
+      "RelativePath": "fonts/VerminVibes/VerminVibes.otf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,7 +150,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\VerminVibes\\VerminVibes1989.ttf"
+      "OriginalItemSpec": "wwwroot\\fonts\\VerminVibes\\VerminVibes.otf"
+    },
+    {
+      "Identity": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\VerminVibes\\VerminVibes.ttf",
+      "SourceId": "RyDawgE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\",
+      "BasePath": "_content/RyDawgE",
+      "RelativePath": "fonts/VerminVibes/VerminVibes.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\VerminVibes\\VerminVibes.ttf"
     },
     {
       "Identity": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\js\\site.js",

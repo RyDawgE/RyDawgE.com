@@ -25,8 +25,12 @@
       "PackagePath": "staticwebassets\\fonts\\PerfectDOSVGA\\PerfectDOSVGA437.ttf"
     },
     {
-      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\VerminVibes\\VerminVibes1989.ttf",
-      "PackagePath": "staticwebassets\\fonts\\VerminVibes\\VerminVibes1989.ttf"
+      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\VerminVibes\\VerminVibes.otf",
+      "PackagePath": "staticwebassets\\fonts\\VerminVibes\\VerminVibes.otf"
+    },
+    {
+      "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\fonts\\VerminVibes\\VerminVibes.ttf",
+      "PackagePath": "staticwebassets\\fonts\\VerminVibes\\VerminVibes.ttf"
     },
     {
       "Id": "C:\\Users\\RyDaw\\Documents\\GitHub\\RyDawgE.com\\RyDawgE\\wwwroot\\js\\site.js",

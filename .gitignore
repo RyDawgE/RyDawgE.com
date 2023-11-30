@@ -423,3 +423,16 @@ RyDawgE/obj/project.assets.json
 RyDawgE/obj/project.nuget.cache
 RyDawgE/obj/RyDawgE.csproj.nuget.dgspec.json
 RyDawgE/obj/RyDawgE.csproj.nuget.g.props
+*.props
+RyDawgE/.vs/RyDawgE/FileContentIndex/07fb185d-413c-49b8-917d-0c839683efa4.vsidx
+RyDawgE/.vs/RyDawgE/v17/.suo
+RyDawgE/bin/Debug/net7.0/RyDawgE.staticwebassets.runtime.json
+RyDawgE/obj/Debug/net7.0/RyDawgE.assets.cache
+RyDawgE/obj/Debug/net7.0/staticwebassets.build.json
+RyDawgE/obj/Debug/net7.0/staticwebassets.development.json
+RyDawgE/obj/Debug/net7.0/staticwebassets.pack.json
+RyDawgE/obj/Debug/net7.0/staticwebassets/msbuild.RyDawgE.Microsoft.AspNetCore.StaticWebAssets.props
+RyDawgE/obj/project.assets.json
+RyDawgE/obj/project.nuget.cache
+RyDawgE/obj/RyDawgE.csproj.nuget.dgspec.json
+RyDawgE/obj/RyDawgE.csproj.nuget.g.props
