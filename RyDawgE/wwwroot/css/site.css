@@ -30,3 +30,11 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.rde-info-ctnr {
+    background-color: #000000;
+    padding: 30px;
+    border-radius: 8px;
+    word-break: normal;
+    white-space: normal;
+}

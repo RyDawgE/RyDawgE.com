@@ -1,6 +1,8 @@
 ﻿@page
 @model RyDawgE.Pages.PortfolioModel
 @{
+    ViewData["Title"] = "RyDawgE - Portfolio";
+
 }
 <head>
     <link rel="stylesheet" href="~/css/ry-index.css" asp-append-version="true" />
@@ -9,6 +11,109 @@
 <main>
     <div class="text-center">
         <h1 class="display-4 ry-text-primary" style="color:#000000">Portfolio</h1>
-        <p class="display-4 ry-text-secondary" style="color:#000000; font-size:30px">Projects I've worked on</p>
+        <p class="display-4 ry-text-secondary" style="color:#000000; font-size:30px">My Links:</p>
     </div>
+    <div style="display:flex;justify-content:space-evenly;flex-grow:1;flex-direction:row;" class="text-center ry-text-secondary">
+        <div style="color:#000000; font-size:30px">
+            <a style="color:#000000;" href="https://github.com/RyDawgE">Personal Github</a>.
+        </div>
+        <div style="color:#000000; font-size:30px">
+            <a style="color:#000000;" href="https://github.com/RyDawg-Studios">Gamedev Github</a>.
+        </div>
+        <div style="color:#000000; font-size:30px">
+            <a style="color:#000000;" href="https://m.youtube.com/c/RyDawgE">YouTube</a>.
+        </div>
+        <div style="color:#000000; font-size:30px">
+            <a style="color:#000000;" href="https://twitter.com/RyDawgE_">Twitter</a>.
+        </div>
+    </div>
+
+    <div style="display:flex;justify-content:space-evenly;padding-top:50px;" class="text-center ry-text-secondary">
+        <div class="rde-info-ctnr" style="width:500px">
+            <div style="display:flex;justify-content:space-evenly;flex-direction:column;">
+                <h2 class="display-4 ry-text-primary" style="color:#fca503; font-size:40px">The Old Chateau</h2>
+                <h4 style="color:#FFFFFF">Unreal Engine 5</h4>
+                <p style="color:#FFFFFF;">Created by 3D Artist Millennium, The Old Chateau is a first person horror game set in the
+                    world of Pokemon. The player has wandered into a haunted mansion and is now trapped inside. The goal of the game is
+                    to find 3 keys and escape.
+                </p>
+                <p style="color:#FFFFFF;">
+                    The game saw widespread success on YouTube, being played by multiple popular creators. Overall, the game has seen well over
+                    10,000 views accross multiple YouTube videos, as well as over 30,000 views on Twitter.
+                </p>
+                <p style ="color:#FFFFFF;">I worked on the following systems: Item Inspection, Dynamic Doors, 
+                    Item Randomization System, Haunted Event System, and other gameplay touchups.</p>
+                <p style="color:#FFFFFF;">A link to the game's trailer and download can be found <a href="https://twitter.com/Millennium_oops/status/1719393187641311566">here</a>.</p>
+            </div>
+        </div>
+
+        <div class="rde-info-ctnr" style="width:500px">
+            <div style="display:flex;justify-content:space-evenly;flex-direction:column;">
+                <h2 class="display-4 ry-text-primary" style="color:#fca503; font-size:40px">Arelle</h2>
+                <h4 style="color:#FFFFFF">Unreal Engine 5 - C++</h4>
+                <p style="color:#FFFFFF;">
+                    Arelle is an open world, procedurally generated, 3D survival RPG. Not much has been revealed about Arelle, but I have been developing it solo
+                    for the better part of a year. More information will be available as things are ready to be shown. The Systems in this game are complex, and I'm taking my time to
+                    ensure the game is not only technically impressive, but also entertaining.
+                </p>
+                <p style="color:#FFFFFF;">
+                    Stage of development: Prototyping.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div style="display:flex;justify-content:space-evenly;padding:40px" class="text-center ry-text-secondary">
+        <div class="rde-info-ctnr" style="width:500px">
+            <div style="display:flex;justify-content:space-evenly;flex-direction:column;">
+                <h2 class="display-4 ry-text-primary" style="color:#fca503; font-size:40px">PyDawgEngine</h2>
+                <h4 style="color:#FFFFFF">Python</h4>
+                <p style="color:#FFFFFF;">
+                    PyDawgEngine is a 2D game development framework wrapped around the Pygame game engine. PyDawgEngine has been in active development for
+                    over 3 years now, constantly recieving new updates to allow developers to make the 2D game of their dreams.
+                </p>
+                <p style="color:#FFFFFF;">
+                    PyDawgEngine gives developers a custom Object/Component hierarchy to replicate the development style of Unreal Engine. PyDawgEngine attempts to
+                    ease the burden of the developer, and handles plenty of boiler-plate game development features such as collision, physics, user interface, debugging, events, and even multiplayer networking.
+                </p>
+                <p style="color:#FFFFFF;">
+                    A link to the repository to download the engine along with a custom example game can be found <a href="https://github.com/RyDawg-Studios/PyDawgEngine">here</a>.
+                </p>
+                <p style="color:#FFFFFF;">
+                    A tutorial for creating a simple project can be found <a href="https://youtu.be/sMBrlj6TnP0?si=QOKv5x-F9wYVGNTb">here</a>.
+                </p>
+            </div>
+        </div>
+        <div class="rde-info-ctnr" style="width:500px">
+            <div style="display:flex;justify-content:space-evenly;flex-direction:column;">
+                <h2 class="display-4 ry-text-primary" style="color:#fca503; font-size:40px">Chipset</h2>
+                <h4 style="color:#FFFFFF">PyDawgEngine</h4>
+                <p style="color:#FFFFFF;">
+                    Chipset is a 2D co-op/multiplayer rogue-like shooter created in my own custom engine, PyDawgEngine. The game boasts a suite of customizable weapons, allowing the player to
+                    clear room after room of enemies in their own unique way.
+                </p>
+                <p style="color:#FFFFFF;">
+                    The game has been in development for over 2 years now. I am developing this along side PyDawgEngine, so I can ensure PyDawgEngine has all of the features to make
+                    a complete game.
+                </p>
+                <p style="color:#FFFFFF;">
+                    A link to the gameplay teaser can be found <a href="https://youtu.be/XJIlK98lodI?si=Lb5QmNVLqXlwhHSr">here</a>.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div style="display:flex;justify-content:space-evenly;padding:40px" class="text-center ry-text-secondary">
+        <div class="rde-info-ctnr" style="width:500px">
+            <div style="display:flex;justify-content:space-evenly;flex-direction:column;">
+                <h2 class="display-4 ry-text-primary" style="color:#fca503; font-size:40px">Lumi-Bnk</h2>
+                <h4 style="color:#FFFFFF">C# - Winforms</h4>
+                <p style="color:#FFFFFF;">
+                    Lumi-Bnk is an editor for WWise Sound Bank Objects created for Team Luminescent for Pokemon Luminescent.
+                </p>
+                <p style="color:#FFFFFF;">
+                    A link to the project's repository can be found <a href="https://github.com/RyDawgE/lumi-bnk">here</a>.
+                </p>
+            </div>
+        </div>
+    </div>
+
 </main>
