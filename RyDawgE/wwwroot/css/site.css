@@ -38,3 +38,7 @@ body {
     word-break: normal;
     white-space: normal;
 }
+
+.rde-link {
+    color: #2ff2a3;
+}
